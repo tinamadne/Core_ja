@@ -1,0 +1,18 @@
+package core_java;
+
+public class Xuv extends Vehicle {
+
+	
+	public void drive() {
+		// TODO Auto-generated method stub
+		super.drive();
+		
+		
+		System.out.println("xuv");
+	}
+
+	
+
+	
+
+}

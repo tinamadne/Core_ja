@@ -1,0 +1,17 @@
+package core_java;
+
+public class Impliments {
+
+	public Impliments() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Xuv x=new Xuv();
+		
+	x.drive();
+
+	}
+
+}
